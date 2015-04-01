@@ -1,0 +1,2 @@
+# OunceCoin
+Cryptocurrency

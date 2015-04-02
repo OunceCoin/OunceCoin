@@ -1,7 +1,9 @@
 # OunceCoin
 
-Ounce coin is a open-source Cryptocurrency based on the bitcoin source code.
+OunceCoin OUC is a open-source Cryptocurrency based on the bitcoin source code.
 It is intented to be used in the precious metals market. But totaly experimental for now.
+
+Danny.
 
 Coin type x11
 Halving 210000 blocks

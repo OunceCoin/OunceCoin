@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bitcoin integration/staging tree
 ================================
 
@@ -80,3 +81,11 @@ Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
 
 See https://github.com/bitcoin/QA/ for how to create a test plan.
+=======
+# OunceCoin
+
+Ounce coin is a open-source Cryptocurrency
+The intention for this coin is to create a
+coin that can be used as payment for buying gold
+online.
+>>>>>>> origin/master

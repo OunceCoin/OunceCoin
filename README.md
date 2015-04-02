@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OunceCoin
 
 Ounce coin is a open-source Cryptocurrency based on the bitcoin source code.

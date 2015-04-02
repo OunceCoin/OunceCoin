@@ -1,7 +1,18 @@
 # OunceCoin
 
 Ounce coin is a open-source Cryptocurrency based on the bitcoin source code.
-x11 Algoritm 
+It is intented to be used in the precious metals market. But totaly experimental for now.
+
+Coin type x11
+Halving 210000 blocks
+Initial coins per block 500 coins
+Target spacing 10 min
+Target timespan 168 h
+Coinbase maturity 10 blocks
+Premine 0 %
+Max coinbase 210000000 + 0 = 210000000 coins
+P2P port 11040
+RPC port 21040
 
 Bitcoin integration/staging tree
 ================================
